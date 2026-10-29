@@ -1,4 +1,5 @@
 # Copilot instructions for Mona Mayhem
+# Copilot instructions for Mona Mayhem
 
 ## Project overview
 
